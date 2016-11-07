@@ -1,5 +1,7 @@
 Relevant Twitter Stream API Links
 
+https://www.gitbook.com/book/node-bloggers/nodejs-and-twitter-s-stream-api/details - working off this now
+
 https://scotch.io/tutorials/getting-started-with-browserify
 
 http://www.codefoster.com/twitterstream/
